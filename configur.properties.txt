@@ -1,0 +1,4 @@
+browsername=chrome
+Qaurl=http://gmail.com
+Username=Admin
+password=Admin123
